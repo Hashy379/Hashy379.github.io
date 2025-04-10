@@ -26,7 +26,7 @@ Welcome to my portfolio! I’m Luke Lounsbury, a soon-to-be graduate with a B.A.
 - **R**: Statistical modeling, data analysis, machine learning
 
 ## Contact
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [lukethings8@gmail.com](mailto:lukethings8@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ---
