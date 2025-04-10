@@ -14,12 +14,6 @@ Welcome to my portfolio! I’m Luke Lounsbury, a soon-to-be graduate with a B.A.
    
    **Link to the dashboard preview**: (link to hosted version of the dashboard if applicable, like Power BI web link)
 
-### 2. **[Other Project Name]**
-   - **Description**: Description of your other project here.
-   - **Files**: 
-     - [Project File (PBIX or Excel)](path-to-file)
-     - [Dataset](path-to-dataset)
-
 ## Skills
 - **Excel**: Data manipulation, pivot tables, advanced functions
 - **Power BI**: Interactive dashboards, data visualizations
