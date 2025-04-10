@@ -27,7 +27,7 @@ Welcome to my portfolio! I’m Luke Lounsbury, a soon-to-be graduate with a B.A.
 
 ## Contact
 - Email: [lukethings8@gmail.com](mailto:lukethings8@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/luke-lounsbury-1b69b4262/)
 
 ---
 
