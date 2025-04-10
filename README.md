@@ -9,7 +9,7 @@ Welcome to my portfolio! I’m Luke Lounsbury, a soon-to-be graduate with a B.A.
    - **Description**: This project includes an interactive Power BI dashboard that analyzes Coca-Cola sales data. It provides insights into sales performance, product categories, and regional trends.
    - **Files**: 
      - [Coca-Cola Dashboard (PBIX)](https://github.com/Hashy379/Hashy379.github.io/raw/refs/heads/main/Coca-Cola%20Dashboard.pbix)
-     - [Coca-Cola Dataset (Excel)](path-to-excel-file)
+     - [Coca-Cola Dataset (Excel)](https://github.com/Hashy379/Hashy379.github.io/raw/refs/heads/main/Coca-Cola%20Dashboard%20Dataset.xlsx)
      - [Coca-Cola Dashboard PDF](path-to-pdf)
    
    **Link to the dashboard preview**: (link to hosted version of the dashboard if applicable, like Power BI web link)
